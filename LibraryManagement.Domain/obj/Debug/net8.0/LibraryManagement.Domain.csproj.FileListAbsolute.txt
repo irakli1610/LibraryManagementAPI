@@ -1,0 +1,12 @@
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.deps.json
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfo.cs
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.sourcelink.json
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\irakl\Desktop\TBC .Net Course\Day_45 Library System Management API\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll
